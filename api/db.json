@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "My First Stream",
+      "description": "My first stream yea",
+      "id": 1
+    },
+    {
+      "title": "My Second Stream",
+      "description": "My other stream haha",
+      "id": 2
+    },
+    {
+      "title": "Reuse Form",
+      "description": "Reuse Form Component Changed",
+      "id": 5
+    }
+  ]
+}
